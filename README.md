@@ -1,16 +1,27 @@
-## Hi there 👋
+ Hi, I'm Kamran Ali Memon
 
-<!--
-**kamran-ali-memon/kamran-ali-memon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-> Aspiring Full-Stack Developer  
+-> Passionate about Web Development & JavaScript  
+-> Currently learning HTML, CSS & JavaScript  
+-> Focused on building real-world projects  
+-> Always learning, always improving  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Skills
+-> HTML5
+-> CSS3
+-> JavaScript (Learning)
+-> Git & GitHub
+
+
+
+Projects
+-> QR Code Generator (Practice Project)  
+-> To-Do App (Practice Project)  
+-> Rock Paper Scissor Game Generator (Practice Project)  
+-> Digital Clock (Practice Project)  
+-> Calculator App (Practice Project)  
+-> Color Changer (Practice Project)  
+-> Faulty Calculator (Practice Project)  
+-> More Coming Soon...
