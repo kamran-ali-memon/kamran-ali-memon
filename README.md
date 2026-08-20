@@ -11,13 +11,19 @@
 Skills
 -> HTML5
 -> CSS3
--> JavaScript (Learning)
+-> JavaScript 
+-> React 
+-> Next-JS 
+-> Node-JS 
+-> Express(currently learning) 
 -> Git & GitHub
 
 
 
 Projects
 -> QR Code Generator (Practice Project)  
+-> Age Calculator App (Practice Project)  
+-> Frequently Asks Questions(FAQs) Model (Practice Project)  
 -> To-Do App (Practice Project)  
 -> Rock Paper Scissor Game Generator (Practice Project)  
 -> Digital Clock (Practice Project)  
