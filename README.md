@@ -19,15 +19,18 @@ Skills
 -> Git & GitHub
 
 
+Featured Practice Projects
 
-Projects
--> QR Code Generator (Practice Project)  
--> Age Calculator App (Practice Project)  
--> Frequently Asks Questions(FAQs) Model (Practice Project)  
--> To-Do App (Practice Project)  
--> Rock Paper Scissor Game Generator (Practice Project)  
--> Digital Clock (Practice Project)  
--> Calculator App (Practice Project)  
--> Color Changer (Practice Project)  
--> Faulty Calculator (Practice Project)  
--> More Coming Soon...
+Here are some of the hands-on projects I've built to strengthen my fundamentals:
+
+* 📱 QR Code Generator — Generate custom QR codes instantly
+* ⏳ Age Calculator App — Calculate exact age based on birth dates
+* ❓ Interactive FAQs Accordion — Accordion component with dynamic UI state
+* 📝 To-Do App — Task management tool using dynamic DOM manipulation
+* 🎮 Rock Paper Scissors Game — Interactive game logic built with JavaScript
+* ⏰ Digital Clock — Real-time clock featuring synchronized DOM updates
+* 🧮 Calculator App — Clean user interface performing core mathematical operations
+* 🎨 Color Changer — Dynamic background state manipulation
+* ⚡ Faulty Calculator — Logic puzzle project testing edge-case handling
+
+> 🚀 More production-ready projects are actively under development!
