@@ -8,12 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&height=55&lines=Building+Ideas+Into+Digital+Experiences;Full-Stack+MERN+%26+Next.js+Developer;Web+%26+Cross-Platform+Mobile+Engineering;Clean+Code.+Smart+Solutions.+Real+Impact." alt="Animated developer introduction" />
 </a>
 
-<br/>
-
-<a href="https://github.com/kamran-ali-memon"><img src="https://img.shields.io/badge/GitHub-Explore_My_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
-
-
 </div>
 
 ---
@@ -160,10 +154,6 @@ A web project focused on making resume creation more accessible through a dedica
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=kamran-ali-memon&show_icons=true&hide_border=true&bg_color=09090B&title_color=A78BFA&icon_color=06B6D4&text_color=E4E4E7&rank_icon=github" alt="GitHub statistics"/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamran-ali-memon&layout=compact&hide_border=true&bg_color=09090B&title_color=A78BFA&text_color=E4E4E7" alt="Most used programming languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=kamran-ali-memon&hide_border=true&background=09090B&ring=A78BFA&fire=06B6D4&currStreakLabel=A78BFA&sideLabels=E4E4E7&dates=9CA3AF" alt="GitHub contribution streak"/>
 
 </div>
 
