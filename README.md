@@ -11,42 +11,14 @@
 <br/>
 
 <a href="https://github.com/kamran-ali-memon"><img src="https://img.shields.io/badge/GitHub-Explore_My_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://linkedin.com/in/kamran-ali-memon-31a90a430"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:kamrankam0331@gmail.com"><img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=kamran-ali-memon&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-## `whoami` — A Little About Me
-
-```javascript
-const kamran = {
-  name: "Kamran Ali Memon",
-  role: "Full-Stack Developer",
-  specialization: [
-    "MERN Stack",
-    "Next.js",
-    "Cross-Platform Mobile Apps"
-  ],
-  frontend: ["React.js", "Next.js", "JavaScript", "React Native"],
-  backend: ["Node.js", "Express.js", "REST APIs"],
-  databases: ["MongoDB", "PostgreSQL"],
-  architecture: ["MVC", "RESTful Design", "System Design"],
-  interests: [
-    "Scalable Applications",
-    "E-commerce Platforms",
-    "AI-Assisted Development"
-  ],
-  mindset: "Learn continuously. Build thoughtfully. Ship reliably."
-};
-
-console.log("Turning ideas into real-world software 🚀");
-```
+## who i am — A Little About Me
 
 I'm passionate about transforming ideas into **modern, reliable, and user-focused digital products**. I build responsive web experiences, backend services, e-commerce platforms, and cross-platform mobile applications with a focus on maintainable code, practical architecture, and performance.
 
@@ -84,8 +56,8 @@ My development workflow combines hands-on engineering with AI-assisted tools to 
 
 </div>
 
-<details>
-<summary><b>🧠 Architecture & Engineering Skills</b></summary>
+
+<b>🧠 Architecture & Engineering Skills</b>
 
 <br/>
 
@@ -95,7 +67,7 @@ My development workflow combines hands-on engineering with AI-assisted tools to 
 - **Database Engineering:** MongoDB and PostgreSQL fundamentals
 - **AI-Assisted Workflows:** ChatGPT, AI-assisted coding, debugging and problem-solving
 
-</details>
+
 
 ---
 
@@ -178,23 +150,6 @@ A web project focused on making resume creation more accessible through a dedica
 
 [🌐 Live Demo](https://resume-craft-project.vercel.app/) · [💻 Source Code](https://github.com/kamran-ali-memon/ResumeCraft)
 
-### ✊ Rock Paper Scissors
-
-An interactive browser game built to practice JavaScript logic, user interactions, and dynamic UI updates.
-
-[🌐 Live Demo](https://rockpaperscissorgame-eight.vercel.app/)
-
-### ❓ FAQ Model
-
-A focused UI project demonstrating interactive frequently asked questions and expandable content.
-
-[🌐 Live Demo](https://faq-model-psi.vercel.app/)
-
-### 🧮 Basic Calculator
-
-A lightweight calculator project for practicing JavaScript fundamentals and interactive interface development.
-
-[🌐 Live Demo](https://basic-calculator-app-peach.vercel.app/)
 
 ---
 
@@ -212,19 +167,6 @@ A lightweight calculator project for practicing JavaScript fundamentals and inte
 
 </div>
 
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/kamran-ali-memon/kamran-ali-memon/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%"/>
-
-</div>
-
-> **Setup note:** The contribution snake requires a GitHub Actions workflow to generate the SVG and publish it to an `output` branch. Until configured, this image may not appear.
-
----
 
 ## 💡 My Development Philosophy
 
