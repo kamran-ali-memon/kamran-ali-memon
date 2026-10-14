@@ -179,7 +179,9 @@ Interested in collaborating, discussing development, or building something meani
 <div align="center">
 
 <a href="https://linkedin.com/in/kamran-ali-memon-31a90a430" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
-<a href="mailto:kamrankam0331@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kamrankam0331@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an Email"/>
+</a>
 <a href="https://github.com/kamran-ali-memon" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/></a>
 
 <br/><br/>
